@@ -1,0 +1,15 @@
+.App {
+  font-family: "Roboto-Regular";
+  text-align: center;
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("fonts/Roboto-Regular.ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-weight: normal;
+}
